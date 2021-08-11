@@ -4,13 +4,6 @@
 - 📝 I regularly write articles on [my.blog.example.com](my.blog.example.com)
 - 📫 How to reach me **pikachom@gmail.com**
 
-
-<h1 align="center">Hi 👋, I'm Pikachom</h1>
-<h3 align="center">Backend, Data Engineering</h3>
-
-- 📝 I regularly write articles on [my.blog.example.com](my.blog.example.com)
-- 📫 How to reach me **pikachom@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> - Work Using</p>
 <p align="left">
